@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**manideep03/manideep03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](cover.png)
 
-Here are some ideas to get you started:
+Hello all this is manideep, I'm a **Deep learning Computer vision** learner. I'm so passionate on working with real world problems which can solve using Deep learning and Computer vision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently working on Image captioning problem.
+- Currently learning advanced deep learning algorithms.
+- Dream project "Building my own Self Driving car"
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manideepgujjari" alt="linkedin"><img src="LI.png"></a>
+  <a href="https://www.instagram.com/__manideep_" alt="insta"><img src="Instagram.png"></a>
+  <a href="https://www.github.com/manideep03" alt="github"><img src="Github.png"></a>
+</p>
