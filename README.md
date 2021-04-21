@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm Manideep Gujjari</h1>
 <h3 align="center">A passionate Deep Learning, computer vision learner and developer. Love to work on real world problems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manideep03&label=Profile%20views&color=1d1b1b&style=flat-square" alt="manideep03" /> </p>
 
 - 🔭 I’m currently working on **Sign language translation using deep learning and computer vision**
 
@@ -30,3 +29,6 @@
 </br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=manideep03&show_icons=true&theme=merko&locale=en" alt="manideep03" /></p>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=manideep03&label=Profile%20views&color=1d1b1b&style=flat-square" alt="manideep03" /> </p>
